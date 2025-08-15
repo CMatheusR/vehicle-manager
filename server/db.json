@@ -1,0 +1,84 @@
+{
+  "vehicles": [
+    {
+      "id": "3",
+      "placa": "GHI7J89",
+      "marca": "Volkswagen",
+      "modelo": "Golf GTI",
+      "ano": 2019,
+      "cor": "Vermelho"
+    },
+    {
+      "id": "4",
+      "placa": "KLM0N12",
+      "marca": "Ford",
+      "modelo": "Focus",
+      "ano": 2018,
+      "cor": "Preto"
+    },
+    {
+      "id": "5",
+      "placa": "PQR3S45",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2022,
+      "cor": "Azul"
+    },
+    {
+      "id": "6",
+      "placa": "TUV6W78",
+      "marca": "Hyundai",
+      "modelo": "HB20",
+      "ano": 2021,
+      "cor": "Cinza"
+    },
+    {
+      "id": "7",
+      "placa": "XYZ9A01",
+      "marca": "BMW",
+      "modelo": "320i",
+      "ano": 2020,
+      "cor": "Branco"
+    },
+    {
+      "id": "8",
+      "placa": "BCD2E34",
+      "marca": "Mercedes-Benz",
+      "modelo": "Classe A",
+      "ano": 2021,
+      "cor": "Preto"
+    },
+    {
+      "id": "9",
+      "placa": "FGH5I67",
+      "marca": "Audi",
+      "modelo": "A3",
+      "ano": 2019,
+      "cor": "Prata"
+    },
+    {
+      "id": 10,
+      "placa": "JKL8M90",
+      "marca": "Renault",
+      "modelo": "Kwid",
+      "ano": 2022,
+      "cor": "Laranja"
+    },
+    {
+      "id": "236e",
+      "placa": "AAAAAAAA",
+      "marca": "asasas",
+      "modelo": "asasas",
+      "ano": 2025,
+      "cor": "asas"
+    },
+    {
+      "id": "fe54",
+      "placa": "AFK7S65",
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2025,
+      "cor": "Prata"
+    }
+  ]
+}
