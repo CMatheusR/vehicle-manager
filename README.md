@@ -102,7 +102,7 @@ Um aplicativo móvel moderno para gerenciamento de veículos, desenvolvido com R
 
 1. **Clone o repositório**
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/CMatheusR/vehicle-manager.git
 cd vehicle-manager
 ```
 
